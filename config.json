@@ -1,0 +1,6 @@
+{
+    "isPos":true,
+    "goroutineNum":4,
+    "inputPath":"corpus/",
+    "outputPath":"segmented/"
+}
